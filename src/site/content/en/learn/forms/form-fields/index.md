@@ -105,7 +105,7 @@ leave out the `type` attribute.
 {% endAside %}
 
 There are various other [types](/learn/forms/fields) you can choose.
-We have a detailed look in a later module.
+We will have a detailed look in a later module.
 
 ## Allow multiple lines of text
 
